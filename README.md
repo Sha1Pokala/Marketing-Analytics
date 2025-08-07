@@ -23,12 +23,12 @@ The dashboard was built using data extracted and cleaned in **SQL Server**, enha
 
 The business problem was communicated via internal documentation and emails, summarized below:
 
-![Business Request](Problem Statements/Business_Request.jpg)  
-![Challenges Identified](Problem Statements/Challenges_Identified.jpg)  
-![Marketing Goal Summary](Problem Statements/Marketing_Goal_Summary.jpg)  
-![KPI's](Problem Statements/KPI'S.jpg)  
-![Goals](Problem Statements/Goals.jpg)  
-![Fact and Dimension Tables](Problem Statements/Fact_and_Dimension_Tables.jpg)  
+![Business Request](problem_statements/Business_Request.jpg)  
+![Challenges Identified](problem_statements/Challenges_Identified.jpg)  
+![Marketing Goal Summary](problem_statements/Marketing_Goal_Summary.jpg)  
+![KPI's](problem_statements/KPI'S.jpg)  
+![Goals](problem_statements/Goals.jpg)  
+![Fact and Dimension Tables](problem_statements/Fact_and_Dimension_Tables.jpg)  
 
 ---
 
@@ -118,6 +118,17 @@ This project successfully:
 - Helped the marketing team refocus on high-performing channels  
 - Provided clear visual storytelling for non-technical business users  
 - Demonstrated full-stack data analytics and BI development capabilities  
+---
+
+## 🙏 Credits & Acknowledgements
+
+This project is inspired by and built using resources provided by **Ali Ahmad**.
+
+Special thanks to [Ali Ahmad's YouTube Channel](https://www.youtube.com/@aliahmaddata) for:
+- The original dataset and business problem statement  
+- SQL database backup files used for the project  
+
+> 📺 Check out his amazing tutorials and datasets on [@aliahmaddata](https://www.youtube.com/@aliahmaddata)
 
 ---
 
