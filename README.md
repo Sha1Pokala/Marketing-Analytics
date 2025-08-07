@@ -76,7 +76,7 @@ The business problem was communicated via internal documentation and emails, sum
 ### 1. **Overview Page**
 **Goal:** High-level KPIs and overall summary
 
-![Overview Page](Images/Overview_page.jpg)
+![Overview Page](Images/Overview_Page.jpg)
 
 ---
 
