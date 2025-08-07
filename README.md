@@ -23,12 +23,12 @@ The dashboard was built using data extracted and cleaned in **SQL Server**, enha
 
 The business problem was communicated via internal documentation and emails, summarized below:
 
-![Business Request](Problem_Statements/Business_Request.jpg)  
-![Challenges Identified](Problem_Statements/Challenges_Identified.jpg)  
-![Marketing Goal Summary](Problem_Statements/Marketing_Goal_Summary.jpg)  
-![KPI's](Problem_Statements/KPI'S.jpg)  
-![Goals](Problem_Statements/Goals.jpg)  
-![Fact and Dimension Tables](Problem_Statements/Fact_and_Dimension_Tables.jpg)  
+![Business Request](Problem Statements/Business_Request.jpg)  
+![Challenges Identified](Problem Statements/Challenges_Identified.jpg)  
+![Marketing Goal Summary](Problem Statements/Marketing_Goal_Summary.jpg)  
+![KPI's](Problem Statements/KPI'S.jpg)  
+![Goals](Problem Statements/Goals.jpg)  
+![Fact and Dimension Tables](Problem Statements/Fact_and_Dimension_Tables.jpg)  
 
 ---
 
